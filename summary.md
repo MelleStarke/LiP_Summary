@@ -141,11 +141,9 @@ Distinguishes between **Language Comprehension** and **Language Production**.<br
 - **Working Memory** (STM)
 - **Cognitive & Attentional Control, and Monitoring**
 
-
-
-**Lexical**, **Syntactic** and **Semantic** information is processed **IN PARALLEL**
-
-
+| Language User Framework                                      |                     |
+| ------------------------------------------------------------ | ------------------- |
+| <span style="color: #ff00ff">Magenta:</span> concerns **thought** (incl. meaning, changing ideas, mental models). Also connects to other systems, such as emotional or musical.<br><span style="color: #dddd00">Yellow</span><span style="color: #ddc000"> to </span><span style="color: #ff9000">orange:</span> concerns **representation of language** and is **hierarchical**<br /><br /><span style="color: #ddc000">Lexical</span>, <span style="color: #ff7000">Syntactic</span> and <span style="color: #ff00ff">Semantic</span> information is processed **IN PARALLEL**. | ![](images/luf.png) |
 
 # 2. Research Techniques
 
