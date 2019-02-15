@@ -126,7 +126,7 @@ Humans communicate via their 5 sensory channels. Using multiple channels *simult
 
 | Two "perception-action models" interacting                   |                     |
 | ------------------------------------------------------------ | ------------------- |
-| Here the receiver approximates the mental state of the sender via **prediction** or **integration**.<br /><br />_"**Prediction** (could be defined as)activating information that will come up before it's even there"_<br /><br />**Integration** happens when feedback is used to update your mental model about the situation. | ![](images/srm.png) |
+| Here the receiver approximates the mental state of the sender via **prediction** or **integration**.<br /><br />**Prediction:** _"(could be defined as) activating information that will come up before it's even there"_<br /><br />**Integration** happens when feedback is used to update your mental model about the situation. | ![](images/srm.png) |
 
 
 
@@ -144,6 +144,64 @@ Distinguishes between **Language Comprehension** and **Language Production**.<br
 | Language User Framework                                      |                     |
 | ------------------------------------------------------------ | ------------------- |
 | <span style="color: #ff00ff">Magenta:</span> concerns **thought** (incl. meaning, changing ideas, mental models). Also connects to other systems, such as emotional or musical.<br><span style="color: #dddd00">Yellow</span><span style="color: #ddc000"> to </span><span style="color: #ff9000">orange:</span> concerns **representation of language** and is **hierarchical**<br /><br /><span style="color: #ddc000">Lexical</span>, <span style="color: #ff7000">Syntactic</span> and <span style="color: #ff00ff">Semantic</span> information is processed **IN PARALLEL**. | ![](images/luf.png) |
+
+
+
+**Units of Language Processing**:
+
+| Level            | Linguistic Disciplines     | Examples                      |
+| ---------------- | -------------------------- | ----------------------------- |
+| **Supralexical** | Syntaxis                   | phrases, sentences, discourse |
+| **Lexical**      | Lexicology<br />Morphology | words                         |
+| **Sublexical**   | Phonetics<br />Phonology   | letters, sounds, syllables    |
+
+
+
+**Linguistic Disciplines:**
+
+| Disipline  | Unit        | Regards                        | Example |
+| ---------- | ----------- | ------------------------------ | ------- |
+| PHONETICS  | _phones_    | raw speech sounds              |         |
+| PHONOLOGY  | _phonemes_  | abstract sound categories      |         |
+| LEXICOLOGY | _words_     | words                          | walk    |
+| MORPHOLOGY | -           | word structure                 |         |
+| SYNTAX     | _sentences_ | sentence structure, word order |         |
+| SEMANTICS  | -           | meaning                        |         |
+| PRAGMATICS | -           | intended meaning               |         |
+
+
+
+**Psycholinguistic Levels:**
+
+| Levels                           | Example                                                      |
+| -------------------------------- | ------------------------------------------------------------ |
+| PHONETIC                         | [ gɒʔnɪ'tʃɑɪndʒ ]                                            |
+| PHONOLOGICAL                     | / gɒtenɪ'tʃeɪndʒ / + intonation                              |
+| SEGMENTATIONAL                   | got # any # change                                           |
+| LEXICAL                          | have got = [POSSESS]; change=[MONEY] [SMALL]                 |
+| SYNTACTIC                        | (have you) got any change?<br />NP: you<span>     </span> VP: [have got] [any change] |
+| PROPOSITIONAL (abstract meaning) | ✋📂?                                                          |
+| PRAGMATIC                        | [I want you to give me money]                                |
+
+
+
+
+
+**Linguistics** is concerned with **structure**, **psycholinguistics** with **processes**
+
+
+
+**Information Stream Types:**
+
+- **Autonomic:** one-way
+- **Interaction:** two-way
+
+
+
+**Language Process Types:**
+
+- **Automatic:** involuntary, unconscious, doesn't affect the attentional system or its resources
+- **Controlled:** voluntary, conscious, affects the attentional system and its resources, *SERIAL* (doesn't occur simultaneously with another process)
 
 # 2. Research Techniques
 
