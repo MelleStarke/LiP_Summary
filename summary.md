@@ -6,23 +6,16 @@ Basic assumptions:
 
 - **Embodiedness**
   - "Language affected by and transmitted via *the body*"
-
-- **Embeddedness **
-
+- **Embeddedness**
   - "Language affects and is affected by *social situations*"
-
 - - brain’s evolution is co-determined by social developments
-
 - **Mental Models**
 
   - "Humans *represent* the world *internally*"
-
 - - includes perceptual, spatial, emotional, causal and temporal info
-
 - **Incremental Processing**
 
   - "Humans process language *over time* and *in parts*"
-
 - - when analyzing messages, stores info is compared to the incoming signal (lexically, syntactically, semantically and world-knowledge-y) including emotion and motor aspects
 
 
@@ -87,7 +80,7 @@ Humans communicate via their 5 sensory channels. Using multiple channels *simult
 **Noise:** *“Any stimulus that disrupts the sharing of meaning”*
 
 - includes internal stimuli like being tired
-- **Semantic noise**: unintended meaning'
+- **Semantic noise**: "unintended meaning"
 
 
 
@@ -127,7 +120,7 @@ Humans communicate via their 5 sensory channels. Using multiple channels *simult
 
 | Sender-Receiver Model                                        |                      |
 | ------------------------------------------------------------ | -------------------- |
-| The sender encodes meaning into a message and sends it through a channel.The receiver decodes the received message into meaning. <br /><br />Certain factors (such as noise) can result in differences between the encoded and decoded message.<br /><br />The Sender-Receiver model can be seen as a simplified version of two "perception-action models" interacting. This is also in line with the **LUF** | ![](images/srm2.png) |
+| The sender encodes meaning into a message and sends it through a channel.The receiver decodes the received message into meaning. <br /><br />Certain factors (such as noise) can result in differences between the encoded and decoded message.<br /><br />The Sender-Receiver model can be seen as a simplified version of two "perception-action models" interacting. This is also in line with the **LUF** | ![](images/srmf.png) |
 
 
 
@@ -141,7 +134,7 @@ Humans communicate via their 5 sensory channels. Using multiple channels *simult
 
 _Framework_ instead of _model_, because models are much more specific and specifies interactions, it's more like a "systematic inventory of all you need when you listen or speak"
 
-Distinguishes between **Language Comprehension** and **Language Production**.<br>The LUF needs a certain number of components for this:
+Distinguishes between **Language Comprehension** and **Language Production**.<br>The Sender-Receiver Model can also be explained via the LUF.<br>The LUF needs a certain number of components for this:
 
 - **Representation & Rules** (LTM)
 - **Processing Components** (e.g. sentence parser)
